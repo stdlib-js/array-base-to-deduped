@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/array-base-to-deduped",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Copy elements to a new generic array after removing consecutive duplicated values.",
   "license": "Apache-2.0",
   "author": {

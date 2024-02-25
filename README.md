@@ -52,7 +52,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import toDeduped from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-to-deduped@deno/mod.js';
+import toDeduped from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-to-deduped@v0.2.1-deno/mod.js';
 ```
 
 #### toDeduped( x, limit, equalNaNs )
@@ -116,7 +116,7 @@ var y = toDeduped( x, 2, false );
 
 ```javascript
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-discrete-uniform@deno/mod.js';
-import toDeduped from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-to-deduped@deno/mod.js';
+import toDeduped from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-to-deduped@v0.2.1-deno/mod.js';
 
 // Create an array of random numbers:
 var x = discreteUniform( 30, 0, 5, {
